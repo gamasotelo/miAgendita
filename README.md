@@ -63,7 +63,7 @@ GitHub es un sitio web + infraestructura que proporciona un servidor Git más un
 ![github](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/github.png)
 
 
-###Fragmentos de código
+### Fragmentos de código
 
 En esta sección mostramos algunos fragmentos de código que consideramos importantes
 
