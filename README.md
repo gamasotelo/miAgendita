@@ -36,6 +36,24 @@ El desarrollo es muy rápido, permite ver el resultado de forma instantánea mie
 
 ![pantalla principal](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/proto_eliminar.png)
 
+### Ejecución de la aplicación
+![inicio sesion](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/final_sesion.jpeg)
+
+##### pantalla principal
+
+![pantalla principal](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/final_principal.jpeg)
+
+##### Agregar
+
+![agregar](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/final_agregar.jpeg)
+
+##### Eliminar
+
+![pantalla principal](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/final_eliminar.png)
+
+
+
+
 
 
 
