@@ -62,6 +62,7 @@ GitHub es un sitio web + infraestructura que proporciona un servidor Git más un
 
 ![github](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/github.png)
 
+
 ###Código
 Con el siguiente código logramos colocar una imagen de fondo
 ![inicio sesion](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/codigo_imagen.png)
