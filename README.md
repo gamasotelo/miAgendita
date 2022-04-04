@@ -4,11 +4,11 @@ Mi agendita es una aplicación que permite al usuario organizar sus actividades,
 con mi agendita serás capaz de sincronizar las actividades de tu dia a dia con distintos dispositivos a traves de tu cuenta de google,  podrás recibir notificaciones para mantenerte al tanto las tus proximas actividades por realizar.
 
 #### Contenido
-1.  [Conceptos fundamentales](#Conceptos fundamentales)
-2.  [Prototipo inicial](#Prototipo inicial)
-3. [Herramientas utilizadas](#Herramientas utilizadas)
+1.  [Conceptos fundamentales](#Conceptos-fundamentales)
+2.  [Prototipo inicial](#Prototipo-inicial)
+3. [Herramientas utilizadas](#Herramientas-utilizadas)
 4. [Código](#Código)
-5. [Ejecución de la aplicación](#Ejecución de la aplicación)
+5. [Ejecución de la aplicación](#Ejecución-de-la-aplicación)
 
 
 ### Conceptos fundamentales
