@@ -1,16 +1,43 @@
-# flutter_application_1
+# Descripción
 
-A new Flutter project.
+Mi agendita es una aplicación que permite al usuario organizar sus actividades,
+con mi agendita serás capaz de sincronizar las actividades de tu dia a dia con distintos dispositivos a traves de tu cuenta de google,  podrás recibir notificaciones para mantenerte al tanto las tus proximas actividades por realizar.
 
-## Getting Started
+#### Contenido
+- Conceptos fundamentales
+- Prototipo inicial
 
-This project is a starting point for a Flutter application.
+### Conceptos fundamentales
+##### ¿Qué es flutter?
 
-A few resources to get you started if this is your first Flutter project:
+Flutter es un SDK desarrollado por Google para crear aplicaciones móviles tanto para Android como para iOS (Apple). Fue desarrollado como un software para uso interno dentro de la compañía pero vieron el potencial que tenia y decidieron lanzarlo como proyecto de código libre. Actualmente es uno de los proyectos de desarrollo de aplicaciones móviles que más está creciendo. Además, desde la última versión estable, también es posible realizar aplicaciones Web y de escritorio para Windows y Mac. Aunque en estas dos plataformas aún está en fase experimental (beta).
+Estas son las tres principales ventajas que ofrece Flutter respecto a otras frameworks de desarrollo de aplicaciones multiplataforma:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Compila en nativo, tanto en Android como en iOS.
+La creación interfaces gráficas es muy flexible, puedes combinar diferentes Widgets (elementos gráficos) para crear las vistas.
+El desarrollo es muy rápido, permite ver el resultado de forma instantánea mientras se escribe el código.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###### ¿Qué es un activity?
+
+### Prototipo inicial
+##### Inicio de sesión 
+
+![inicio sesion](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/prototipo_sesion.png)
+
+##### pantalla principal
+
+![pantalla principal](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/proto_principal.png)
+
+##### Agregar
+
+![agregar](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/proto_agregar.png)
+
+##### Eliminar
+
+![pantalla principal](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/proto_eliminar.png)
+
+
+
+
+
+
