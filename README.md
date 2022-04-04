@@ -7,7 +7,7 @@ con mi agendita serás capaz de sincronizar las actividades de tu dia a dia con 
 1.  [Conceptos fundamentales](#Conceptos-fundamentales)
 2.  [Prototipo inicial](#Prototipo-inicial)
 3. [Herramientas utilizadas](#Herramientas-utilizadas)
-4. [Código](#Código)
+4. [Código](#Fragmentos-de-código)
 5. [Ejecución de la aplicación](#Ejecución-de-la-aplicación)
 
 
@@ -62,9 +62,8 @@ GitHub es un sitio web + infraestructura que proporciona un servidor Git más un
 
 ![github](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/github.png)
 
-||
 
-###Código
+###Fragmentos de código
 
 Con el siguiente código logramos colocar una imagen de fondo
 ![inicio sesion](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/codigo_imagen.png)
