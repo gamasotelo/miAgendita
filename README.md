@@ -97,7 +97,11 @@ En este apartado mostramos capturas de nuestra aplicación en ejecución, actual
 ##### Inicio de sesión
 ![inicio sesion](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/final_sesion.jpeg)
 
-##### pantalla principal
+##### Registrar
+
+![pantalla principal](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/final_registrar.jpeg)
+
+##### Pantalla principal
 
 ![pantalla principal](https://raw.githubusercontent.com/gamasotelo/miAgendita/master/imagenes/final_principal.jpeg)
 
